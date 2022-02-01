@@ -1,0 +1,13 @@
+# Mac/OSX
+.DS_Store
+
+# Private Node Modules
+node_modules/
+
+# Private Files
+*.json
+*.csv
+*.csv.gz
+*.tsv
+*.tsv.gz
+*.xlsx
